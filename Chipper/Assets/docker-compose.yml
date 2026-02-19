@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  chipper:
+    build: .
+    container_name: chipper_container
+    stdin_open: true     # equivalent to -i
+    tty: true            # equivalent to -t
+    restart: unless-stopped

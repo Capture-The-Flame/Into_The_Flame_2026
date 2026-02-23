@@ -18,6 +18,7 @@ Challenges were hosted on our CTF Platform
 - The Royal Rune Wall: Web Exploit  
 - Chipper : Cryptography  
 
+**Note**: All executables were made to be used in a *Linux environment*
 
 
 <pre> Category/ 

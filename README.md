@@ -9,9 +9,11 @@ Challenges were hosted on our CTF Platform
 
 - Blacksmith : Reverse Engineering  
 - The Labyrinth : Reverse Engineering  
+- A Thief in The Making : Binary Exploit
+- Jackpot! : Binary Exploit  
+- AlgeBruh : Binary Exploit  
 - Silver Coin : Forensics  
 - Research204 : OSINT  
-- Run My Return : OSINT
 - Robot Takeover : Web Exploit   
 - The Royal Rune Wall: Web Exploit  
 - Chipper : Cryptography  

@@ -1,4 +1,8 @@
-# Into_The_Flame_2026
+<div align="center">
+<img src="./public/Into-The-Flame-Logo.svg">
+</div>
+
+---
 
 **WELCOME** to the *Into the Flame 2026* repository! We have currated *10 beginner challanges* to introduce some cyber security concepts and capture the flag challenge fundamentals for the preparation season of our annual **Capture the Flame** competition!
 
